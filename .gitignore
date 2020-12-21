@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OpenGL/v16
+/.vs
+/OpenGL/.vs/OpenGL/v16
+/OpenGL/OpenGL/OpenGL.vcxproj.user
