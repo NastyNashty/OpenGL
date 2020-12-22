@@ -6,3 +6,10 @@
 /.vs
 /OpenGL/.vs/OpenGL/v16
 /OpenGL/OpenGL/OpenGL.vcxproj.user
+/OpenGL/x64/Debug
+/OpenGL/OpenGL/x64/Debug
+/OpenGL/OpenGL/Debug/OpenGL.tlog
+/OpenGL/OpenGL/Debug
+*.suo
+*.user
+_ReSharper.*
